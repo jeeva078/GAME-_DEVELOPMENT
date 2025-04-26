@@ -1,11 +1,5 @@
 # EX 4 : ELLIPSE DRAWING ALGORITHM
-
-NAME : MOHAMED NIZAMUDDIN A
-
-REG NO: 212224040194
-
 **AIM :**
-
 
 To  implement the Bresenham’s  algorithm for ellipse using a c coding.
 
@@ -116,8 +110,7 @@ int plotpoints(int xcenter,int ycenter,int x,int y)
 
 **Output :**
 
-![ellipsegamedevlopment](https://github.com/user-attachments/assets/51b06629-23d3-4109-91e3-f236dba53d95)
-
+![Screenshot 2025-04-26 140549](https://github.com/user-attachments/assets/e8d2ea38-1bfc-4a5e-ad06-56b1e9157e33)
 
 **Result :**
 
